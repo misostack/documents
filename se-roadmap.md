@@ -108,6 +108,34 @@ Static site generators have been around for quite a long time, but they have see
 
 ### BE
 
+#### Databases
+
+> Use the right tool
+
+1. [ ] Key-Value
+
+![Key Value](./assets/database-paradigm-key-value.png)
+
+- [ ] Redis
+- [ ] Memcache
+
+2. [ ] Wide Column
+
+3. [ ] Document
+
+4. [ ] Relational
+
+5. [ ] Graph
+
+6. [ ] Search Engine
+
+7. [ ] Multi-model
+
+#### Resources
+
+- Database Paradigm :https://www.youtube.com/watch?v=W2Z7fbCLSTw
+- Database Engines: https://db-engines.com/en/ranking
+
 ### Mobile
 
 ## 4. Testing
