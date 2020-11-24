@@ -108,6 +108,59 @@ Static site generators have been around for quite a long time, but they have see
 
 ### BE
 
+#### Programming Languages
+
+> Programming language paradigms
+
+- Abstraction : trừu tượng
+- Polyglot : đa ngôn ngữ
+- Similarities: điểm tương đồng
+- Differences: sự khác biệt
+
+> Primary
+
+- [ ] Object Oriented - Ruby, Java
+- [ ] Functional Programming - Haskell
+- [ ] Logic/Constraints - Prolog
+- [ ] Procedural - C
+- [ ] General purpose language - Python, Golang, PHP
+
+##### Object Oriented
+
+- Everything is an object
+- An object has been encapsulated in state & behavior
+- Self : access internal state
+- Objects Interact
+- Modeling: mô hình hóa
+- Reusablity: khả năng tái sử dụng cao
+- Ease of Testing
+- Making Change
+
+##### Funtional
+
+- Pure Funtional. Input -> Output
+- Data - Procedures
+- Syntax : Infix vs. Prefix
+
+**Strength**
+
+- Concurrency
+- Easier To Test
+- Brevity : ngắn gọn
+
+**References**
+
+- https://deepu.tech/functional-programming-in-typescript/
+- https://www.coursera.org/specializations/scala
+
+##### Logic/Constraints
+
+- Formal Logic
+- Facts & Clauses
+- What NOT How
+
+##### Procedural
+
 #### Databases
 
 > Use the right tool
