@@ -46,7 +46,29 @@
 - [ ] Installation
 - [ ] CLI commands
 - [ ] Tools
-- [ ] Data Modeling
+- [ ] Data Modeling & DataTypes
+- [ ] Insert, Query, Update, Delete
+- [ ] Projection, Limit,Sort
+- [ ] Index
+- [ ] Aggregation
+- [ ] Map Reduce
+- [ ] Text Search
+- [ ] Regular Expression
+- [ ] Common Atomic Operators
+
+**Advanced**
+
+- [ ] Relationship
+- [ ] References
+- [ ] Auto-Increment Sequence
+
+**Production**
+
+- [ ] Analyze: index, covered queries, objectid vs uuid
+- [ ] Replication
+- [ ] Sharding
+- [ ] Backup
+- [ ] Deployment
 
 1. Overview
 
@@ -62,6 +84,8 @@
 - Schema less
 - Ease of scale-out
 - No complex joins
+- Capped Collection
+- Auto-Increment sequence
 
 **Why?**
 
