@@ -13,6 +13,7 @@
 ## References
 
 - https://nodejs.dev/learn
+- https://www.tutorialsteacher.com/nodejs/nodejs-process-model
 
 ## Topic
 
@@ -22,7 +23,7 @@
 - V8 vs libuv
 - CLI & REPL
 - Global Object, Process and Buffer
-- How require() actually works
+- [How require() actually works](https://www.freecodecamp.org/news/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8/)
 - JSON and C++ Addons
 - Wrapping and caching modules
 - NPM vs Yarn
