@@ -108,6 +108,11 @@ Static site generators have been around for quite a long time, but they have see
 
 ### BE
 
+#### Operating System
+
+- [Operating System](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) - The important
+- Bash : https://cheatography.com/tag/bash/
+
 #### Programming Languages
 
 > Programming language paradigms
@@ -152,6 +157,7 @@ Static site generators have been around for quite a long time, but they have see
 
 - https://deepu.tech/functional-programming-in-typescript/
 - https://www.coursera.org/specializations/scala
+-
 
 ##### Logic/Constraints
 
@@ -160,6 +166,16 @@ Static site generators have been around for quite a long time, but they have see
 - What NOT How
 
 ##### Procedural
+
+#### Concurrency
+
+- https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm
+- https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/
+- https://www.golang-book.com/books/intro/10
+- https://www.udemy.com/course/concurrency-in-go-golang
+- https://tsh.io/blog/simple-guide-concurrency-node-js/
+- https://medium.com/platformer-blog/node-js-concurrency-with-async-await-and-promises-b4c4ae8f4510
+- https://blog.usejournal.com/nodejs-architecture-concurrency-model-f71da5f53d1d
 
 #### Databases
 
