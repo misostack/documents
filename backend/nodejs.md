@@ -116,8 +116,53 @@ nvm ls
 
 - os, query, url, events, buffer, stream
 - https://www.digitalocean.com/community/tutorials/using-buffers-in-node-js
+- child_process
+- timers: setInterval, setTimeout, setImmediate
+- process.nextTick()
 
 > 3.2.External Module
+
+```bash
+yarn add cowsay
+ll node_modules/.bin/
+total 8
+drwxr-xr-x  2 sonnm sonnm 4096 Nov 27 13:48 ./
+drwxr-xr-x 15 sonnm sonnm 4096 Nov 27 13:48 ../
+lrwxrwxrwx  1 sonnm sonnm   16 Nov 27 13:48 cowsay -> ../cowsay/cli.js*
+lrwxrwxrwx  1 sonnm sonnm   16 Nov 27 13:48 cowthink -> ../cowsay/cli.js*
+sonnm@DESKTOP-78EN94K:~/src/github.com/misostack/nodejs$ node_modules/.bin/cowsay "tete"
+```
+
+```json
+~0.13.0 : [0.13.0,0.13.x]
+^0.13.0 : [0.13.0, ...)
+0.13.0 : 0.13.0
+```
+
+```bash
+yarn info lodash
+yarn info lodash version
+yarn info lodash versions
+yarn add chalk
+yarn remove chalk
+```
+
+- [YarnCheatsheet](https://devhints.io/yarn)
+- [NPMCheatsheet](https://devhints.io/npm)
+
+**The Semantic Versioning concept is simple: all versions have 3 digits: x.y.z.**
+
+- the first digit is the major version
+- the second digit is the minor version
+- the third digit is the patch version
+
+**npx**
+
+> npx lets you run code built with Node.js and published through the npm registry.
+
+```bash
+yarn global add npx
+```
 
 > 3.3.Local Module
 
